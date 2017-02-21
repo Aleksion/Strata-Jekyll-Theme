@@ -25,7 +25,7 @@ Well, I’ve had enough. So I did what I do best. I started researching ways to 
 
 With mindfulness comes the promise of the ability to simply accept things for what they are. As was probably the case for many, I was initially a skeptic. And when I first heard about it years ago I didn’t understand and accept it’s premise: That my “overanalyzing” was holding me back. Potentially making me unhappy. It wasn’t until a few months  ago that my pain was big enough for me to face my skepticism. So i downloaded [Headspace](undefined) and set out on their “Take 10 journey”. The results weren’t immediately obvious. But I’ve found that just the breathing exercise alone has enabled me to control both my mind and my pulse whenever it starts racing. And after having used it for some time, I rarely need it anymore. It has taken the anxiety out of making choices and removed the following doubt after having made one. 
 
-However, while I stopped fretting about whether I’m was doing the “right” thing at any given time I still struggled choosing what to focus on in the first place. Mindfulness have enabled me to enjoy playing video games, reading books, going for a walk and watching a movie again. But journaling is what is helping me figure out where I want to go.
+However, while I stopped fretting about whether I was doing the “right” thing at any given time I still struggled choosing what to focus on in the first place. Mindfulness have enabled me to enjoy playing video games, reading books, going for a walk and watching a movie again. But journaling is what is helping me figure out where I want to go.
 
 ## Journaling
 
