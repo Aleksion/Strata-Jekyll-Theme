@@ -2,7 +2,7 @@ locale: "en-US"
 title: AHerforth # Title of your site
 url: "http://aleksion.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-google_analytics_key: ""
+google_analytics_key: "UA-92328257-1"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
@@ -31,7 +31,7 @@ gems:
 
 # Jekyll SEO Tag
 webmaster_verifications:
-  google: # 1234
+  google: #UA-92328257-1
   bing: # 1234
   alexa: # 1234
   yandex: # 1234
