@@ -30,7 +30,7 @@ But with great freedom comes great responsibility. And for us to execute success
 
 ## Big bad boss (CEO):
 
-Accountable for overall business success. It is the CEO’s responsibility to make sure that the business overall is moving forward. It is there at his discretion to make any decisions he deems necessary to achieve that. This includes hiring, firing and delegating people. It includes assigning responsibilities. It’s his responsibility to gather key information from the other officers and act accordingly. If the marketing can’t meet requirements due to a limited budget, it’s either his job to find more money or find more qualified people to do the job.
+Accountable for overall business success. It is the CEO’s responsibility to make sure that the business overall is moving forward. It is at his discretion to make any decisions he deems necessary to achieve that. This includes hiring, firing and delegating people. It includes assigning responsibilities. It’s his responsibility to gather key information from the other team members and act accordingly. If the team Growth Hacker can’t meet requirements due to a limited budget, it’s either his job to find more money or find more qualified people to do the job.
 
 It includes laying out the overall business and execution strategy as well as organizing and preparing both key partners and potential investors. Taking on investments and giving out stakes in the company is, however, a board decision arrived at at a majority vote of at least (75%).
 
